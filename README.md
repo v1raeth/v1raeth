@@ -10,4 +10,5 @@
 <a href="https://www.twitch.tv/v1raeth"><img src="https://viraeth.work/github/Twitch.png" width="50" height="50" title="Twitch"></a>
 <a href="https://viraeth.work"><img src="https://viraeth.work/github/Web.png" width="50" height="50" title="Web"></a>
 <a href="https://geng.gg/"><img src="https://viraeth.work/github/GENG.png" width="50" height="50" title="GEN"></a>
+<br>business: dsgn@viraeth.work
 </div>
