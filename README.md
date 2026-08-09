@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://viraeth.work/github/Banner.png" alt="header" width="100%" height="auto" />
+<img src="https://viraeth.work/github/Banner2.png" alt="header" width="100%" height="auto" />
 
 <h3>🦊&nbsp;About me</h3>
-&nbsp;i am a vi, love films, latte, music, marvel, valorant, lol, f1, white fox, vi, kai'sa, psylocke, clove, maths and white/black/purple colors.<br>work with itzy, netflix kr & geng (design)
+&nbsp;i am a vi, love films, latte, music, marvel, valorant, lol, f1, white fox, vi, kai'sa, psylocke, clove, maths and white/black/purple colors.<br>work w itzy
 <br><br>
 
 <h3>🔗&nbsp;Connect with me</h3>
